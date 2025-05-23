@@ -1,0 +1,6 @@
+<!-- Ajoutez ceci dans ios/App/App/App.entitlements -->
+<key>com.apple.developer.associated-domains</key>
+<array>
+    <string>applinks:mystylist.fr</string>
+    <string>applinks:www.mystylist.fr</string>
+</array>

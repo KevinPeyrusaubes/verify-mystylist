@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "fr.mystylist.app",
+      "package_name": "com.eaglets.mystylist",
       "sha256_cert_fingerprints": [
-        "A1:B2:C3:..."
+        "09:20:41:E6:E2:FC:56:BD:06:B0:88:CD:8C:53:4A:37:A4:5F:75:B3:0B:A0:10:C5:5B:30:1E:3A:58:D0:44:88"
       ]
     }
   }

@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "R4D8XKWZ7G.com.eaglets.mystylist"
+        ],
+        "components": [
+          {
+            "/": "/app/*",
+            "comment": "Matches all paths under /app/"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "R4D8XKWZ7G.com.eaglets.mystylist"
+    ]
+  }
+}

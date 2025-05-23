@@ -1,0 +1,20 @@
+<!-- Ajoutez ceci dans ios/App/App/Info.plist -->
+<key>CFBundleURLTypes</key>
+<array>
+    <dict>
+        <key>CFBundleURLName</key>
+        <string>com.mystylist.app</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+            <string>mystylist</string>
+        </array>
+    </dict>
+    <dict>
+        <key>CFBundleURLName</key>
+        <string>Universal Links</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+            <string>https</string>
+        </array>
+    </dict>
+</array>
